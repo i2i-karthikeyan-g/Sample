@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.btn {
+    padding: 8px 8px;
+    border: none;
+    cursor: pointer;
+    color: #424141;
+    background-color: rgb(241, 241, 248);
+    border-radius: 2px;
+    margin: 2px;
+}
+
+input{
+    padding: 8px;
+    border: 1px solid #474747;
+}

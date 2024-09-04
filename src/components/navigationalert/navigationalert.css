@@ -1,0 +1,27 @@
+.navigation-alert-container {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #1a191964;
+}
+
+.navigation-alert-content {
+    background-color: #ffffff;
+    padding: 16px;
+    border-radius: 8px;
+}
+
+.navigation-alert-content>.info {
+    padding: 20px 0px;
+
+}
+
+.navigation-alert-content>.footer {
+    display: flex;
+    justify-content: end;
+    gap: 12px;
+}
+

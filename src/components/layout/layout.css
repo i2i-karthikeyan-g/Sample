@@ -1,0 +1,9 @@
+.layout{
+  width: 100%;
+    display: flex;
+    gap: 40px;
+  }
+  .layout>.content-holder{
+    width: 100%;
+    background-color: aliceblue;
+  }
